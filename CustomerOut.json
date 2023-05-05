@@ -1,0 +1,14 @@
+{
+  "FirstName": "Lola",
+  "MiddleName": "Serly",
+  "LastName": "Nidle",
+  "Age": 43,
+  "Married": true,
+  "Hobbies": ["Makan", "Minum"],
+  "Addresses": [
+    { "Address": "New York", "Country": "USA", "PostalCode": 23232 },
+    { "Address": "London", "Country": "England", "PostalCode": 89595 },
+    { "Address": "Bangkok", "Country": "Thailand", "PostalCode": 239500 },
+    { "Address": "Bali", "Country": "Indonesia", "PostalCode": 80808 }
+  ]
+}
